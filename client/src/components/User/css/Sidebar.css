@@ -1,0 +1,8 @@
+.sidebar .nav .nav-item a:hover {
+  background-color: rgb(237, 234, 255);
+  color: #6d81f0;
+}
+
+.sidebar .nav .nav-item i:hover {
+  color: #6d81f0;
+}

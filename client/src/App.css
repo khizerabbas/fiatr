@@ -1,0 +1,41 @@
+/* .bg-lightblue {
+  background-color: #87cefa;
+  font-weight: bold;
+}
+.bg-orange {
+  background-color: darkorange;
+  font-weight: bold;
+}
+.text-red {
+  color: #f52323;
+  font-weight: bold;
+}
+.bg-white {
+  background-color: #ffffff;
+  font-weight: bold;
+}
+
+.icon-position {
+  position: absolute;
+  top: 10%;
+  left: 15%;
+}
+.text-box {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.markercluster-map {
+  height: 90vh;
+}
+.disable {
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+.disable:hover {
+  opacity: 0.9;
+} */
+
+a {
+  text-decoration: none;
+}

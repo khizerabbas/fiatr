@@ -1,0 +1,64 @@
+.navbarLanding {
+  opacity: 0.8;
+  box-shadow: 20px 10px 20px rgb(0, 0, 0);
+}
+.navbar {
+  opacity: 0.8;
+}
+.bg-light {
+  background-color: rgb(201, 130, 130);
+}
+.main2 {
+  /* background-image: url("./img/banner.png"); */
+  background-size: cover;
+  height: 1200px;
+  width: 100%;
+  margin-top: 63px;
+}
+.cssinput {
+  width: 300px;
+  border: none;
+  padding: 10px;
+}
+
+.btn-grad {
+  background-image: linear-gradient(
+    to right,
+    #da22ff 0%,
+    #9733ee 51%,
+    #da22ff 100%
+  );
+}
+.btn-grad {
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+  width: 200px;
+}
+
+.btn-grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+/* .nav-link {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: rgb(236, 243, 239);
+  margin-right: 10px;
+  font-weight: bold;
+} */
+/* .nav-link:hover {
+  background-color: rgb(224, 220, 248);
+} */

@@ -1,0 +1,139 @@
+.bg-blog2 {
+  background: linear-gradient(to right bottom, white, rgba(145, 129, 236, 0.3));
+  width: 100%;
+}
+
+.echarts {
+  flex: 0 0 50%;
+  background-color: #0a0a11;
+  color: #fff;
+  border-right: 1px solid #98a8b4;
+}
+.d3 {
+  flex: 0 0 50%;
+  background-color: #0a0a11;
+  color: #fff;
+}
+.leaflet-container {
+  height: 400px;
+  width: 100%;
+}
+
+.hexbin-hexagon {
+  stroke: #000;
+  stroke-width: 1px;
+}
+.hexbin-container:hover .hexbin-hexagon {
+  transition: 200ms;
+  stroke: orange;
+  stroke-width: 1px;
+  stroke-opacity: 1;
+}
+.hexbin-tooltip {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid black;
+  background-color: white;
+}
+.grad-back {
+  background: linear-gradient(
+    to right bottom,
+    #ffffffb3,
+    rgba(120, 99, 235, 0.3)
+  );
+}
+
+.text-brown {
+  color: #cd853f;
+}
+.text-purple {
+  color: #da70d6;
+}
+.text-pink {
+  color: #ff00ff;
+}
+.text-darkgreen {
+  color: #006400;
+}
+.text-success {
+  color: #7cfc00;
+}
+.card {
+  box-shadow: 10px 10px 5px #494848;
+}
+
+@media (max-width: 578px) {
+  .main1 {
+    margin-left: 10px;
+  }
+}
+
+select {
+  background-color: rgb(134, 195, 255);
+  padding: 6px;
+  border: none;
+}
+.select-selected.select-arrow-active:after {
+  border-color: transparent transparent #fff transparent;
+  top: 7px;
+}
+.btnBorder {
+  border-radius: 70px;
+}
+
+.boxshadow {
+  box-shadow: 1px 2px 2px rgb(136, 149, 209);
+}
+
+.dot {
+  height: 20px;
+  width: 20px;
+  background-color: rgb(134, 10, 10);
+  border-radius: 50%;
+  display: inline-block;
+  border: 2px solid white;
+}
+
+.dot2 {
+  height: 20px;
+  width: 20px;
+  background-color: rgb(29, 16, 145);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot3 {
+  height: 20px;
+  width: 20px;
+  background-color: rgb(207, 51, 51);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot4 {
+  height: 20px;
+  width: 20px;
+  background-color: rgb(146, 103, 226);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot5 {
+  height: 20px;
+  width: 20px;
+  background-color: rgb(9, 61, 5);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot6 {
+  height: 20px;
+  width: 20px;
+  background-color: rgb(51, 185, 107);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.Popup div {
+  width: 600px;
+}
